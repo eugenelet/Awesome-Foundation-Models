@@ -300,6 +300,8 @@ using only image prediction as a training criterion; from AWS)
 * [SegGPT: Segmenting Everything In Context](https://arxiv.org/pdf/2304.03284.pdf) (from BAAI, ZJU, and PKU) [![Star](https://img.shields.io/github/stars/baaivision/Painter.svg?style=social&label=Star)](https://github.com/baaivision/Painter)
 
 ### Training Efficiency
+
+- **OneComp** (arXiv 2026, Fujitsu Research) — Unified PTQ pipeline for LLMs, compressing foundation models for efficient serving. [[Paper](https://arxiv.org/abs/2603.28845)] [[Code](https://github.com/FujitsuResearch/OneCompression)]
 * [Green AI](https://dl.acm.org/doi/pdf/10.1145/3381831) (introduces the concept of Red AI vs Green AI)
 * [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/pdf/1803.03635.pdf) (the lottery ticket hypothesis, from MIT)
 
