@@ -253,7 +253,7 @@ using only image prediction as a training criterion; from AWS)
 * [T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://dl.acm.org/doi/pdf/10.5555/3455716.3455856) (from Google)
 * [GPT-2: Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf) (1.5B parameters; from OpenAI)
 * [LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://arxiv.org/pdf/1908.07490.pdf) (EMNLP, from UNC-Chapel Hill)
-* [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) (from Google AI Language)
+* [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) ([Read online](https://webeditions.page/works/bert-pre-training/); from Google AI Language)
 * [GPT: Improving Language Understanding by Generative Pre-Training](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf) (from OpenAI)
 * [Attention Is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) (NeurIPS, from Google and UoT)
 
