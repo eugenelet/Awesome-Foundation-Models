@@ -43,6 +43,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 ## Papers by Date
 ### 2025
 
+* [10/17] [UniMedVL: Unifying Medical Multimodal Understanding and Generation through Observation-Knowledge-Analysis](https://arxiv.org/abs/2510.15710) (ICML 2026, a unified medical foundation model for multimodal understanding and generation, from Shanghai AI Lab) [![Star](https://img.shields.io/github/stars/uni-medical/UniMedVL.svg?style=social&label=Star)](https://github.com/uni-medical/UniMedVL)
 * [06/11] [Ming-Omni: A Unified Multimodal Model for Perception and Generation](https://arxiv.org/abs/2506.09344) (from Ant Group) [![Star](https://img.shields.io/github/stars/inclusionAI/Ming?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/inclusionAI/Ming/tree/main)
 * [06/08] [Lingshu: A Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning](https://arxiv.org/abs/2506.07044v4) (from Alibaba) [![Star](https://img.shields.io/github/stars/alibaba-damo-academy/MedEvalKit?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/alibaba-damo-academy/MedEvalKit)
 * [05/11] [Seed1.5-VL Technical Report](https://arxiv.org/abs/2505.07062) (A vision-language foundation model from ByteDance)
